@@ -1,0 +1,56 @@
+script - Abra idle
+Novo arquivo e coloca o codigo
+clique em run ou f5
+
+
+int: 7 / -4 / 0 / 9547
+float: 4.5 / 0.076 / -15.223 / 7.0
+bool: true / false
+str:"Ola" / "7.5" / "7"
+
+isalnum – Verifique se todos os caracteres no texto são alfanuméricos
+isalpha – Verifique se todos os caracteres no texto são letras
+isascii – Verifique se a sequência é composta por todos os caracteres ASCII ou se a sequência estiver vazia também retornara true
+isdecimal – Verifique se todos os caracteres no objeto unicode são decimais
+isdigit – Verifique se todos os caracteres no texto são dígitos
+isidentifier – Verifique se a sequência é um identificador válido :: O método isidentifier () retornará True se a string for um identificador válido, caso contrário, False. Uma sequência é considerada um identificador válido se contiver apenas letras alfanuméricas (a-z) e (0-9) ou sublinhados (_). Um identificador válido não pode começar com um número ou conter espaços.
+islower – Verifique se todos os caracteres do texto estão em minúsculas
+isnumeric – Verifique se todos os caracteres no texto são numéricos
+isprintable – Verifique se todos os caracteres no texto são imprimíveis
+isspace – Verifique se todos os caracteres no texto são espaços em branco
+istitle – Verifique se cada palavra começa com uma letra maiúscula
+isupper – Verifique se todos os caracteres do texto estão em maiúscula
+
+
+AULA 7
+// DIVISAO INTEIRA
+% RESTO DA DIVISAO
+= RECEBE
+== IGUAL A
+Outro modo de fazer a potencia é. pow(numero, numero) - - EXEMPLO: POW(4,3)
+Fazer raiz QUADRADA². NUMERO**(1/²) - - EXEMPLO: 81**(1/2)- pow(numero,(1/2)
+Fazer raiz CUBICA³. NUMERO**(1/³) - - EXEMPLO: 127**(1/3)- pow(numero,(1/3)
+
+ORDEM DE PROCEDENCIA
+()
+**
+* / // % - SE TIVER MAIS QUE UM, RESOLVA OQUE APARECER PRIMEIRO
++ -
+
+frase[inicio:final:pulando numero] aula 9
+frase[15]
+frase[15:]
+frase[:15]
+frase[9:15]
+frase[9::3]
+frase[:9:3]
+
+C U R S O   EM  V I D  E  O
+0 1 2 3 4 5  6  7 8 9 10 11
+QUANDO LEN É USADO ELE LE SEMPRE UM NUMERO A MAIS, NO CASO ACIMA SERIA O [12]
+
+num[cont]
+enumerate(num)
+comando que da espaco f'{produtos:Pode por que quise aki<10}' - f'{produtos:<10}'
+lista Copia. B = A[:]
+lista ligacao. B = A

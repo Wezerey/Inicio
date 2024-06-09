@@ -1,0 +1,5 @@
+c=float(input('qual a altura da parede '))
+h=float(input('qual o comprimento da parede '))
+m=(c*h)
+tinta=(m/2)
+print('voce tera que comprar lata de tinta com aproximadamente {} 6litros de tinta'.format(tinta))

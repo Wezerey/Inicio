@@ -1,0 +1,2 @@
+n=int(input('Digite um numero de 1 a 9 '))
+print('tabuada: {0}x1:{9},{1}x2:{10},{2}x3:{11},{3}x4:{12},{4}x5:{13},{5}x6:{14},{6}x7:{15},{7}x8:{16},{8}x9:{17},'.format(n,n,n,n,n,n,n,n,n,n*1,n*2,n*3,n*4,n*5,n*6,n*7,n*8,n*9))

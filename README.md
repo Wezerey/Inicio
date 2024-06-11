@@ -1,2 +1,2 @@
 Inicio em python.
-Esses foram os arquivos do inicio do aprendizado de python.
+Esses sao os arquivos do meu aprendizado em python
